@@ -26,7 +26,7 @@ This is a repo that contains various data structure implementations and algorith
 To clone this repo, run the following command in your terminal :
 
 ```bash
-git clone https://github.com/your-username/data-structure-with-cpp.git
+git clone https://github.com/A-A7med-i/Data_Structure.git
 ```
 
 #
