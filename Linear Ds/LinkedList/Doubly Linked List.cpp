@@ -2,14 +2,6 @@
 
 using namespace std;
 
-	// dl.insertAt(0, 4);
-	// dl.insertAt(1, 6);
-	// dl.insertAt(2, 7);
-	// dl.insertFirst(2);
-	// dl.insertLast(10);
-	// dl.remove(7);
-	// dl.display();
-	// dl.reverse_display();
 
 struct Node
 {
